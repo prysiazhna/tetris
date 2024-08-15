@@ -32,6 +32,15 @@ body {
     backdrop-filter: blur(10px);
 }
 
+#title {
+    margin-bottom: 14px;
+    font-size: 1.9em;
+    font-weight: 900;
+    text-align: center;
+    color: #2d2d7d;
+    letter-spacing: 3px;
+}
+
 #controls {
     margin-bottom: 15px;
     font-size: 1em;
